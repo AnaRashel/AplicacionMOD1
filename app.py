@@ -144,8 +144,7 @@ if pagina == "🏠 Home":
     st.write("""
     - Python  
     - Streamlit  
-    - Pandas  
-    - Matplotlib  
+    - Pandas 
     """)
     # Pie de página
     st.markdown("---")
